@@ -1,0 +1,8 @@
+Hey!
+
+We are looking for a developer who can help us maintain our game and platform.
+At the same time, we will need this developer to help us implement new products, integrate other products, or do specific tasks.
+
+We will need to issue also a token with vesting periods and integrate it into our game.
+
+Will be great to speak more about the project and see if we can find synergies.
